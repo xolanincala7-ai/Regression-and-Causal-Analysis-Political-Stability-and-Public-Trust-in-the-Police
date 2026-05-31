@@ -8,7 +8,7 @@ Part of my MA‑E‑Science portfolio — please read this project (.html file)
 This project investigates the relationship between political stability and public trust in the police across 36 African countries. Using data from the World Governance Indicators (WGI, 2022) for political stability and the Ibrahim Index of African Governance (IIAG, 2022) for public trust, the study applies regression analysis to test whether more politically stable countries enjoy higher levels of trust in law enforcement.
 
 # Project Preview 
-Screenshot: 
+Screenshot: https://github.com/xolanincala7-ai/Regression-and-Causal-Analysis-Political-Stability-and-Public-Trust-in-the-Police/blob/main/s.shot.public.trust.in.police.png
 
 # Methods
 Tool: R programming language for regression and causal analysis.
